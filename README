@@ -1,0 +1,3 @@
+This is certainly not yet an implementation that should be used in production, but may be a convenient point to begin with such an implementation.
+I used the pseudo code from wikipedia as an outline, hence the implementation may not be "pure" Simulated Annealing but already contain certain optimizations.
+<http://en.wikipedia.org/wiki/Simulated_Annealing#Pseudocode>
